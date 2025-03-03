@@ -1,0 +1,40 @@
+#shen{
+    width: 1200px;
+    overflow: auto;
+    margin: 0 auto;
+    padding-bottom: 15px;
+}
+#shen p.daohang{
+     line-height: 40px;
+     font-size: 17px;
+     color: #01441f;
+}
+#shen p.daohang a,#shen p.daohang span{color: black;}
+#shen .context{
+    width: 1100px;
+    margin: 0 auto;
+    text-align: center;
+}
+#shen .context .tit{
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 40px;
+    margin-top: 10px;
+}
+
+#shen .context .xiang{
+    text-align: left;
+    font-size: 17px;
+    text-indent: 34px;
+    line-height: 28px;
+}
+#shen .context img{width: 750px;height: 300px;margin: 5px 0 10px 0;text-align: center;}
+#shen .context .xiang span {
+    padding-left: 34px;
+}
+#shen .context .xiang div{text-align: center;}
+.fan{
+    text-align: right;
+    font-size: 18px;
+    line-height: 40px;
+}

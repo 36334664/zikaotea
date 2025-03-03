@@ -1,0 +1,81 @@
+#shen{
+    width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+    margin-bottom: 20px;
+}
+#shen p.daohang{
+    line-height: 40px;
+    font-size: 17px;
+    color: #01441f;
+}
+#shen p.daohang a,#shen p.daohang span{color: black;}
+#shen .zuo{
+    width: 200px;
+    overflow: auto;
+    float: left;
+    border-radius: 10px;
+    border: 2px solid #01441f;
+    text-align: center;
+    line-height: 35px;
+    min-height: 150px;
+}
+#shen .zuo .ding{
+    height: 40px;
+    line-height: 40px;
+    font-size: 17px;
+    background-color: #01441f;
+    color: #fff;
+    text-align: center;
+    border-radius: 7px 7px 0 0;
+}
+#shen .zuo .ding a{color: #fff;}
+#shen .zuo .on{background-color: #adc3b7;}
+#shen .zuo .on a{color: #01441f;}
+#shen .you{
+    width: 972px;
+    min-height: 390px;
+    float: left;
+    margin-left: 20px;
+    border-radius: 10px;
+    border: 2px solid #01441f;
+    padding-bottom: 20px;
+}
+#shen .you .ding{
+    height: 40px;
+    line-height: 40px;
+    font-size: 17px;
+    background-color: #01441f;
+    color: #fff;
+    border-radius: 7px 7px 0 0;
+    padding-left: 20px;
+}
+#shen .you .tit{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 20px;
+    line-height: 40px;
+}
+#shen .you .context{
+    width: 920px;
+    margin: 0 auto;
+    font-size: 17px;
+    text-indent: 34px;
+    line-height: 30px;
+}
+#shen .you .context span {
+    padding-left: 34px;
+}
+#shen .you .lie{
+    width: 920px;
+    margin: 0 auto;
+    line-height: 30px;
+    margin-top: 20px;
+}
+#shen .you .lie img{width: 10px;height: 10px;}
+#shen .you .turn{float: right;margin-right: 30px;margin-top: 15px;}
+#shen .you .turn a{
+    display: flex;
+    align-items: center;
+}
+#shen .you .turn img{width: 20px;height: 20px;}

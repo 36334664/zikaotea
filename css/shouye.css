@@ -1,0 +1,91 @@
+#shen{
+    width:100%;
+    margin: 0 auto;
+}
+#shen h3{
+    text-align: center;
+    line-height: 40px;
+}
+#shen .lishi .zhanshi{margin: 0 auto;width: 1200px;height: 250px;}
+#shen .lishi .zhanshi div{
+width: 180px;height: 230px;border: 1px #01441f solid;border-radius: 10px;font-size: 15px;line-height: 23px;float: left;
+margin-left: 95px;
+}
+#shen .lishi .zhanshi div img{width: 180px;height: 200px;border-radius: 10px 10px 0 0;}
+#shen .lishi .zhanshi div p{padding-left: 10px;}
+
+#shen .leibie{width:100%;height: 350px;background-color: #adc3b7;}
+#shen .leibie .zhanshi{width: 1199px;height: 310px;margin: 0 auto;position: relative;overflow:hidden;}
+#shen .leibie .zhanshi .lie{width: 1967.84px;height: 233px;position:absolute;}
+#shen .leibie .zhanshi .lie li{
+width: 180px;height: 230px;background-color: #fff;border: 1px #01441f solid;border-radius: 10px;font-size: 15px;
+line-height: 23px;float: left;margin-left: 95px;
+}
+#shen .leibie .zhanshi .lie li p{padding-left: 10px;}
+#shen .leibie .zhanshi .lie li img{width: 180px;height: 200px;border-radius: 10px 10px 0 0;}
+#shen .leibie .zhanshi .btns{height: 240px;}
+#shen .leibie .zhanshi .btns span{
+width: 50px;height:50px;position: absolute;
+background-color: rgba(0, 0, 0, .2);text-align: center;line-height: 50px;color: #fff;font-size: 40px;cursor: pointer;top: 90px;
+}
+#shen .leibie .zhanshi .btns span:first-child{left: 0;}
+#shen .leibie .zhanshi .btns span:last-child{right: 0;}
+#shen .leibie .zhanshi .butt{width: 1200px;text-align: center;}
+#shen .leibie .zhanshi .butt button {
+border-radius: 6px;margin-top: 15px;width: 150px;height: 40px;font-size:16px;border-color:#01441f;background-color:#adc3b7;
+border: 1px solid;
+}
+
+#shen .wenhua{width: 1200px;height: 300px;margin: 0 auto;}
+#shen .wenhua .zuo{
+width: 180px;height: 230px;border: 1px #01441f solid;border-radius: 10px;
+font-size: 15px;line-height: 23px;float: left;margin-left: 95px;
+}
+#shen .wenhua .zuo img{width: 180px;height: 200px;border-radius: 10px 10px 0 0;}
+#shen .wenhua .zuo p{text-align: center;}
+#shen .wenhua .you{
+width: 740px;height: 220px;border: 1px #01441f solid;border-radius: 10px;
+float: left;margin-left:50px;line-height: 25px;padding: 10px 20px 0px 20px;
+}
+#shen .wenhua .you img.duo{width: 20px;height: 20px;float: right;}
+#shen .wenhua .you h4{float: left;}
+#shen .wenhua .you hr{width:740px;border-color: #01441f;}
+#shen .wenhua .you p{width: 745px;line-height: 31px;font-size: 15px;border-bottom: 1.5px #01441f solid;}
+#shen .wenhua .you p img{width: 10px;height: 10px;vertical-align: middle;}
+#shen .wenhua .you p span{float: right;color: #01441f;}
+
+#shen .news{width: 100%;height: 300px;margin: 0 auto;background-color: #adc3b7;}
+#shen .news .zhanshi{width: 1200px;margin: 0 auto;}
+#shen .news .zhanshi .zuo{
+width: 180px;height: 230px;border: 1px #01441f solid;background-color: #fff;border-radius: 10px;
+font-size: 15px;line-height: 23px;float: left;margin-left: 95px;padding: 5px 10px 0px 10px;
+}
+#shen .news .zhanshi .zuo h5{float: left;}
+#shen .news .zhanshi .zuo img{width: 15px;height: 15px;margin-top: 4px;float: right;}
+#shen .news .zhanshi .zuo hr{width: 180px; border-color: #01441f;}
+#shen .news .zhanshi .zuo div img{width: 180px;height: 140px;margin: 5px 0 5px 0;}
+#shen .news .zhanshi .zuo p{
+font-size: 15px;width: 180px;
+display: -webkit-box;overflow: hidden;-webkit-line-clamp: 2;-webkit-box-orient: vertical;
+}
+#shen .news .zhanshi .you{
+width: 725px;height: 225px;border: 1px #01441f solid;background-color: #fff;
+border-radius: 10px;float: left;margin-left:45px;line-height: 25px;padding: 10px 20px 0px 20px;
+}
+#shen .news .zhanshi .you img.duo{width: 20px;height: 20px;float: right;}
+#shen .news .zhanshi .you h5{float: left;}
+#shen .news .zhanshi .you hr{width:725px;border-color: #01441f;}
+#shen .news .zhanshi .you p{width: 725px;line-height: 38px;font-size: 15px;border-bottom: 1.5px #01441f solid;}
+#shen .news .zhanshi .you p:last-of-type{border: 0;}
+#shen .news .zhanshi .you p img{width: 10px;height: 10px;vertical-align: middle;margin-right: 10px;}
+#shen .news .zhanshi .you p span{float: right;}
+
+#shen .chuangxin{width: 1200px;height: 225px;margin: 0 auto;text-align: center;}
+#shen .chuangxin p{
+width: 980px;margin: 0 auto;border: 1.5px #01441f solid;
+padding: 15px;border-radius: 15px;text-indent: 30px;font-size: 15px;text-align: left;
+}
+#shen .chuangxin button {
+border-radius: 6px;margin-top: 15px;width: 150px;height: 40px;font-size:16px;border-color:#01441f;
+background-color: #fff;border: 1px solid;
+}

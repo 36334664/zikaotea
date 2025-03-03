@@ -1,0 +1,37 @@
+#shen{
+    width: 1200px;
+    overflow: auto;
+    margin: 0 auto;
+    padding-bottom: 15px;
+}
+#shen p.daohang{
+     line-height: 40px;
+     font-size: 17px;
+     color: #01441f;
+}
+#shen p.daohang a,#shen p.daohang span{color: black;}
+#shen .context{width: 1150px;margin: 0 auto; line-height: 30px;margin-bottom: 10px;}
+#shen .context img{width: 10px; height: 10px;margin-right: 5px;}
+#shen .context span{float: right;color: #01441f;}
+#shen .context span a{color: #01441f;}
+#shen .paging{
+    text-align: center;
+}
+#shen .paging a{
+    margin: 0 5px;
+    color: #01441f;
+    font-size: 13px;
+    border:1px #01441f solid;
+    padding:5px 5px;
+    cursor: default;
+}
+#shen .paging a.active{
+    border:1px #01441f solid;
+    color: #fff;
+    background-color: #01441f;
+}
+#shen .paging a:hover{
+    border:1px #01441f solid;
+    color: #fff;
+    background-color: #01441f;
+}

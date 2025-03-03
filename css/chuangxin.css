@@ -1,0 +1,12 @@
+#shen{
+width: 1200px;
+overflow: auto;
+margin: 0 auto;
+padding-bottom: 15px;
+}
+#shen p.daohang{line-height: 40px;font-size: 17px;color: #01441f;}
+#shen p.daohang a,#shen p.daohang span{color: black;}
+#shen .context p{text-indent: 34px;font-size: 17px;line-height: 30px;}
+#shen .context .tit{text-align: center;font-size: 20px;font-weight: bold;line-height: 40px;}
+#shen .context .one{text-indent: 0px;font-weight: bold;}
+#shen .context .two{text-indent: 5px;}

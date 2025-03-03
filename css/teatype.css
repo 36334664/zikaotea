@@ -1,0 +1,33 @@
+#shen{
+    width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+    margin-bottom: 20px;
+}
+#shen p.daohang{
+    line-height: 40px;
+    font-size: 17px;
+    color: #01441f;
+}
+#shen p.daohang a,#shen p.daohang span{color: black;}
+#shen .type img{width: 13px;height: 13px;}
+#shen .type .zong{
+    display: flex;
+    align-items: center;
+    font-size: 17px;
+    color: #01441f;
+    line-height: 30px;
+}
+#shen .type .zong a{color: #01441f;}
+#shen .type .xiangxi{
+    width: 1170px;
+    overflow: auto;
+    margin: 0 auto; 
+    line-height: 30px;
+    font-size: 16px;
+}
+#shen .type .xiangxi span{
+    display: block;
+    width: 95px;
+    float: left;
+}
